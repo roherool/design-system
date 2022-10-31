@@ -1,0 +1,6 @@
+{
+  "extends": "@digimo-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}

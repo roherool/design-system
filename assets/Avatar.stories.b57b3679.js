@@ -1,0 +1,2 @@
+import{A as t}from"./index.d67f2226.js";import"./index.3334d173.js";import"./iframe.1eed2644.js";import"./index.d2392243.js";import"./jsx-runtime.086e8467.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/roherool.png",alt:"Roberto Oliveira"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.b57b3679.js.map
